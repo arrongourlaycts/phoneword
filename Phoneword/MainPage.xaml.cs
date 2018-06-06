@@ -10,7 +10,7 @@ namespace Phoneword
         public MainPage()
         {
             InitializeComponent();
-            //testingsomefunctions
+            //Testing github commit functionality
         }
 
         void OnTranslate(object sender, EventArgs e)
